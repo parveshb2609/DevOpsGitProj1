@@ -7,6 +7,7 @@ public class TestClassfile {
 
 		Triangle t = new Triangle();
 		System.out.println("My first service in devops git");
+		System.out.println("changes done to test build pipeline");
 		
 		t.printLshapeTriangle(5);
 		
