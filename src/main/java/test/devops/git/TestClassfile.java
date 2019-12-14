@@ -8,7 +8,7 @@ public class TestClassfile {
 		Triangle t = new Triangle();
 		System.out.println("My first service in devops git");
 		
-		t.printLshapeTriangle("test1231");
+		t.printLshapeTriangle(5);
 		
 		t.printLshapeTriangle(6);
 	}
