@@ -11,6 +11,8 @@ public class TestClassfile {
 		
 		t.printLshapeTriangle(5);
 		
+		t.printLshapeTriangle(7);
+		
 		t.printLshapeTriangle(6);
 	}
 
